@@ -1,0 +1,23 @@
+{
+  "name": "BoulderROCK.github.io",
+  "version": "0.0.0",
+  "homepage": "https://github.com/BoulderROCK/BoulderROCK.github.io",
+  "authors": [
+    "Rauno Viskus <Rauno56@gmail.com>"
+  ],
+  "description": "Summary page for BoulderROCK @ Ronimisministeerium",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.3.13",
+    "lodash": "~3.2.0"
+  }
+}
